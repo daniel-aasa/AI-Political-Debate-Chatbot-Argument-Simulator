@@ -44,8 +44,6 @@ venv\Scripts\activate
 create a .env file in the root directory with your API credentials:
 
 ```bash
-env
-Copy
 OPENAI_API_KEY=your_api_key_here
 ```
 
@@ -54,7 +52,6 @@ Run the Simulator
 Start the debate simulator by running the main entry point. For example:
 
 ```bash
-Copy
 python main.py
 ```
 
