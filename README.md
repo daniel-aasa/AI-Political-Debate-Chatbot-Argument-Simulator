@@ -55,3 +55,4 @@ Start the debate simulator by running the main entry point. For example:
 python main.py
 ```
 
+Read more here: https://medium.com/@danaasa/ai-vs-ai-simulating-political-debates-with-intelligent-argumentation-16a29a5e7c0f
